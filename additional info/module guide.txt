@@ -1,0 +1,11 @@
+# add
+git submodule add <repository_git_url> <path>
+# example: git submodule add https://github.com/user/repo1.git path/to/repo1
+
+
+# 1 repo
+git submodule init
+git submodule update
+
+# easier
+git submodule update --init --recursive

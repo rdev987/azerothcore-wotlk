@@ -1,0 +1,3 @@
+[submodule "modules/mod-individual-progression"]
+	path = modules/mod-individual-progression
+	url = https://github.com/ZhengPeiRu21/mod-individual-progression.git
